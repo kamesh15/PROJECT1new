@@ -85,7 +85,7 @@ body {
    </tbody>
   </table>
  </form>
- <form action="http://localhost:8080/Expense_Reimbursement_System/ManagerHomePage.jsp" > 
+ <form action="http://localhost:8080/Expense_Reimbursement_System/EmployeeHomePage.jsp" > 
    <input type="submit" value="back to Home">
    </form>
 </div>
