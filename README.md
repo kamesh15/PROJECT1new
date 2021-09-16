@@ -18,7 +18,7 @@ CONCEPTS AND TECHNOLOGIES COVERED WITH THIS APPLICATION ARE :
 * Bootstrap
 * Java 1.8
 * Log4j
-* Junit
+* JUnit
 * Tomcat Server
 * MySQL Database
 
