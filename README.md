@@ -1,10 +1,10 @@
 # PROJECT1
 
-Employee Reimbursement Application
+# Employee Reimbursement Application
 
 Web application using Servlets and Hibernate
 
-CONCEPTS AND TECHNOLOGIES COVERED WITH THIS APPLICATION ARE :
+# CONCEPTS AND TECHNOLOGIES COVERED WITH THIS APPLICATION ARE:
 * Java OOP
 * Collections
 * Control Statements
@@ -22,5 +22,27 @@ CONCEPTS AND TECHNOLOGIES COVERED WITH THIS APPLICATION ARE :
 * Tomcat Server
 * MySQL Database
 
-Project Presentation Link:
+# Project Presentation Link:
+
 https://1drv.ms/p/s!AtgvU0td0j6WgiA5LX1eSS8f7BbD?e=T5Tygj
+
+# Features
+
+For Employee :
+* Registration or Sign up Validation
+* Login Validation
+* Employee Home Page
+* Reimbursement Application
+* All Reimbursement request for particular employee
+* View personal profile
+* Update personal profile
+
+For Manager:
+* Registration or Sign up Validation
+* Login Validation
+* Manager Home Page
+* View every Reimbursement Requests of employees
+* View pending Reimbursement Requests and approve/deny pending Reimbursement Requests
+* View all pending Reimbursement Requests
+* View all approved Reimbursement Requests
+* View all denied Reimbursement Requests
