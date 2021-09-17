@@ -46,3 +46,6 @@ For Manager:
 * View all pending Reimbursement Requests
 * View all approved Reimbursement Requests
 * View all denied Reimbursement Requests
+
+# Getting Started 
+git clone 
