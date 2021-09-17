@@ -48,4 +48,8 @@ For Manager:
 * View all denied Reimbursement Requests
 
 # Getting Started 
-git clone 
+git clone https://github.com/kamesh15/Reimbursement-System-Project1
+
+# Usage
+* Run maven build
+* Run the war file in tomcat server
