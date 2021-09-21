@@ -53,3 +53,5 @@ git clone https://github.com/kamesh15/Reimbursement-System-Project1
 # Usage
 * Run maven build
 * Run the war file in tomcat server
+* Project get started with home page where to choose sign up or login
+* Use the project user interface accordingly 
